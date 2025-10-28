@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor {
+    display: flex;
+    width: 80%;
+    height: 70vh;
+    gap: 10px;
+}
+
+.late {
+    flex: 1;
+    background-color: #80d8f7;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.prin {
+    flex: 4;
+    background-color: #b7d5d2;
+    padding: 10px;
+    font-size: 12px;
+}
